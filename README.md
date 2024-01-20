@@ -1,16 +1,32 @@
-### Hi there 👋
+<h2 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Leema Roselin!
+   
+</h2>
 
-<!--
-**leemaroseling/leemaroseling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=SQL%20Python%20Programmer&center=true&width=500&height=50">
+</p>
+## 👩 About me:
+<p>
+  I possess a quick learning ability and thrive on challenges as a SQL and Python Developer with a strong passion for Machine Learning.I'm enthusiastic about exploring new technologies. I am actively seeking opportunities that enable me to translate my problem-solving skills and logical thinking into practical solutions for real-world challenges. My goal is to apply my abilities to address genuine issues and contribute positively to various scenarios.
+</p><br>
 
-Here are some ideas to get you started:
+<h2>🥇 Specialised in:</h2>
+<p>🔸 PL/SQL
+<p>🔸 Python Development
+<p>🔸 Database Development
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ ## 🙋‍♂️ Connect with me:
+<!-- Badges template - https://github.com/badges/shields -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/leema-roselin-g/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gleemaroselin@gmail.com"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/-gmail-f53c20?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+ <hr>
+<p align="center">
+    <i>Take a look at my repositories and let's get in touch!</i><br><br>
+   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>
